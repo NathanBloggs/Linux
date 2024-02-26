@@ -1,3 +1,11 @@
 #This file will consist of the basics of running some commands, and ways to accomplish a couple things.
 #This is all done on a Debian Kali Linux machine
 #Remember: check, change, check.
+
+
+SSH into your kali machine from your windows Command Prompt:
+
+
+Establish a screen session:
+
+
